@@ -12,4 +12,3 @@ dotnet nuget add source --name ArcFaceComponent C:\...\mmariaa12-master\ArcFaceC
 
 dotnet add package ArcFaceNuget
 ```
-5. В проекте использовать API с помощью `using ArcFaceComponent;`
