@@ -10,5 +10,4 @@ dotnet build
 ```
 dotnet nuget add source --name ArcFaceComponent C:\...\mmariaa12-master\ArcFaceComponent\bin\Debug\ArcFaceComponent.1.0.0.nupkg
 
-dotnet add package ArcFaceNuget
-```
+dotnet add package ArcFaceComponent
